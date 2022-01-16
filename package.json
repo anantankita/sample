@@ -1,0 +1,25 @@
+{
+  "name": "deepgram",
+  "version": "1.0.0",
+  "description": "npm install @deepgram/sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install @deepgram/sdk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anantankita/sample.git"
+  },
+  "keywords": [
+    "u"
+  ],
+  "author": "ankita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anantankita/sample/issues"
+  },
+  "homepage": "https://github.com/anantankita/sample#readme",
+  "dependencies": {
+    "@deepgram/sdk": "^1.2.0"
+  }
+}
