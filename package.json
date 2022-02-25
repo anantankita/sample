@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/anantankita/sample#readme",
   "dependencies": {
-    "@deepgram/sdk": "^1.2.0"
+    "@deepgram/sdk": "^1.2.1"
   }
 }
